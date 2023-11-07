@@ -1,14 +1,14 @@
 <h1 align="center">
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=650&height=70&duration=5000&lines=Hi+👋,+I'm+Nuwanthi+Navodya+De+Seram;" />
 </h1>
-<h3 align="center">Undergraduate | BEng(Hons) Software Engineering University of Westminster</h3>
+<h3 align="center">Undergraduate | BEng(hons) in software engineering Informatic institute of technology</h3>
 <img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nuwanthinavodya&label=Profile%20views&color=0e75b6&style=flat" alt="nuwanthinavodya" /> </p>
 
 - 🔭 I’m currently working on My portfolio design & Android Studio Project.
 
-- 🎓 I’m currently studying at **University of Westminster.**
+- 🎓 I’m currently studying at **IIT, University of Westminster.**
 
 - 🌱 I’m currently learning **Android Studio & MySql**
 
