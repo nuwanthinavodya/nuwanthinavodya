@@ -2,8 +2,7 @@
    <img src="https://readme-typing-svg.herokuapp.com?font=Agbalumo&size=24&pause=1000&color=B110C5&random=false&width=500&lines=Hello+%F0%9F%AB%A1%2C+I'm+Nuwanthi+Navodya+De+Seram." alt="Typing SVG" />
 </h1>
 <h3 align="center">Undergraduate | BEng(hons) in software engineering Informatic institute of technology</h3>
-<img align="right" alt="Coding" width="400" src="https://github.com/nuwanthinavodya/nuwanthinavodya/assets/126808802/47b49a12-c835-476f-ba81-4ff7f5dcab02">
-
+<img align="right" alt="Coding" width="400" src="https://github.com/nuwanthinavodya/nuwanthinavodya/assets/126808802/1aef7211-c31c-485c-b63b-859013507c46">
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nuwanthinavodya&label=Profile%20views&color=0e75b6&style=flat" alt="nuwanthinavodya" /> </p>
