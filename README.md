@@ -37,7 +37,7 @@
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=nuwanthinavodya&" alt="nuwanthinavodya" /></p>
 
 <h3 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=25&center=true&vCenter=true&width=610&height=70&duration=4000&lines=Thanks+for+visiting!+✌️;">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Agbalumo&size=24&pause=1000&color=B110C5&random=false&width=435&lines=Thank+You+for+Visiting+!+%F0%9F%A4%97" alt="Typing SVG" /></a>
 </h3>
 
 <br/>
