@@ -1,7 +1,7 @@
 <h1 align="center">
    <img src="https://readme-typing-svg.herokuapp.com?font=Agbalumo&size=24&pause=1000&color=B110C5&random=false&width=500&lines=Hello+%F0%9F%AB%A1%2C+I'm+Nuwanthi+Navodya+De+Seram." alt="Typing SVG" />
 </h1>
-<h3 align="center">Undergraduate | BEng(hons) in software engineering Informatic institute of technology</h3>
+<h3 align="center" font="Agbalumo">Undergraduate | BEng(hons) in software engineering Informatic institute of technology</h3>
 <img align="right" alt="Coding" width="500" padding-left="100" src="https://github.com/nuwanthinavodya/nuwanthinavodya/assets/126808802/1aef7211-c31c-485c-b63b-859013507c46">
 
 
@@ -23,8 +23,8 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/nuwanthi-navodya-60429726a" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="nuwanthi-navodya-60429726a" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/emnnds" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="emnnds" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/nuwanthi-navodya-60429726a" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="nuwanthi-navodya-60429726a" height="50" width="50" /></a>
+<a href="https://www.hackerrank.com/emnnds" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="emnnds" height="50" width="50" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
