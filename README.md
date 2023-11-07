@@ -1,5 +1,5 @@
 <h1 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=670&height=70&duration=5000&lines=Hello+🫡,+I'm+Nuwanthi+Navodya+De+Seram;" />
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=700&height=70&duration=5000&lines=Hello+🫡,+I'm+Nuwanthi+Navodya+De+Seram;" />
 </h1>
 <h3 align="center">Undergraduate | BEng(hons) in software engineering Informatic institute of technology</h3>
 <img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif">
