@@ -1,7 +1,7 @@
 <h1 align="center">
    <img src="https://readme-typing-svg.herokuapp.com?font=Agbalumo&size=24&pause=1000&color=B110C5&random=false&width=500&lines=Hello+%F0%9F%AB%A1%2C+I'm+Nuwanthi+Navodya+De+Seram." alt="Typing SVG" />
 </h1>
-<h3 align="center">Undergraduate | BEng(hons) in software engineering Informatic institute of technology</h3>
+<h3 align="center">Undergraduate | BSc in Physical ICT in University of Sri Jayawardenapura </h3>
 <img align="right" alt="Coding" width="500" padding-left="100" src="https://github.com/nuwanthinavodya/nuwanthinavodya/assets/126808802/1aef7211-c31c-485c-b63b-859013507c46">
 
 
@@ -9,7 +9,7 @@
 
 - 🔭 I’m currently working on My portfolio design & Android Studio Project.
 
-- 🎓 I’m currently studying at **IIT, University of Westminster.**
+- 🎓 I’m currently studying at **Physical ICT, University of Sri Jayawardenapura**
 
 - 🌱 I’m currently learning **Android Studio & MySql**
 
