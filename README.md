@@ -11,7 +11,7 @@
 
 - 🎓 I’m currently studying at **Physical ICT, University of Sri Jayawardenapura**
 
-- 🌱 I’m currently learning **Java**
+- 🌱 I’m currently learning **Python**
 
 - 👯 I’m looking to collaborate on **Open Source Projects.**
 
